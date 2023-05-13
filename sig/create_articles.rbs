@@ -1,0 +1,3 @@
+class CreateArticles
+  def change: -> untyped
+end
